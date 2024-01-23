@@ -3,7 +3,7 @@
 Created on Tue Aug 22 14:49:24 2023
 - Batch convert the scored EDF files to csv files for inter rater comparison
 - At times there will be markers of Body movement which is marked as W here
-- It will spit out a hypnogram imaghe as well
+- It will spit out a hypnogram image as well
 
 @author: Rahul Venugopal
 """
